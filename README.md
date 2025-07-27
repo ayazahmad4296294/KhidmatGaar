@@ -1,16 +1,38 @@
-# khidmat
+**KhidmatGaar** – Final Year Project
 
-A new Flutter project.
+KhidmatGaar is a Flutter-based mobile application designed to connect households with reliable, lower-class service workers. The app aims to simplify the hiring process for both monthly and on-demand services with a clean, user-friendly interface and real-time service availability.
 
-## Getting Started
+**Features**
 
-This project is a starting point for a Flutter application.
+**Two User Roles**
+  • Customers – Can hire workers based on service category and location
+  • Workers – Can register, set location, and receive job requests
 
-A few resources to get you started if this is your first Flutter project:
+* **Worker Profile Management**
+  Includes profile photo upload, CNIC verification, and service category selection
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Services**
+  * Guard, Gardener, Maid, Driver, Baby Caretaker, Chef, Handyman, Locksmith, Auto Mechanic
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Notification System**
+  Alerts for requests and updates
+
+* Worker availability status
+
+* Rating & feedback system
+
+* **Firebase Authentication & Firestore Database**
+  Secure login system and cloud-based data storage
+
+**Tech Stack**
+
+* **Flutter** – UI development
+* **Firebase Auth** – User authentication
+* **Cloud Firestore** – Real-time database
+* **Cupabase** – For Images 
+
+Developed By
+
+**Ayaz Ahmad**
+**Muhammad Faheem**
+BS Software Engineering – Riphah International University, Raiwind Campus
