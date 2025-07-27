@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955555494507",
+    "project_id": "khidmat-29d2a",
+    "storage_bucket": "khidmat-29d2a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955555494507:android:8b7448569716a9aaefcf2e",
+        "android_client_info": {
+          "package_name": "com.example.khidmat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz3nRsAvpy7fICR3rKw8b_6eGBc8ufyhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
