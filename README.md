@@ -33,6 +33,4 @@ KhidmatGaar is a Flutter-based mobile application designed to connect households
 
 Developed By
 
-**Ayaz Ahmad**
-**Muhammad Faheem**
-BS Software Engineering – Riphah International University, Raiwind Campus
+**Ayaz Ahmad** and **Muhammad Faheem** BS Software Engineering – Riphah International University, Raiwind Campus
