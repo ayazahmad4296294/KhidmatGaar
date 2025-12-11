@@ -29,7 +29,7 @@ KhidmatGaar is a Flutter-based mobile application designed to connect households
 * **Flutter** – UI development
 * **Firebase Auth** – User authentication
 * **Cloud Firestore** – Real-time database
-* **Cupabase** – For Images 
+* **Supabase** – For Images 
 
 Developed By
 
